@@ -1,5 +1,4 @@
 // Antipattern: Comments
-// Refactor the code so the comments may be removed
 // ------------------------------------------------------------------------------------
 {
     // Maybe is a recursive closure
@@ -12,6 +11,7 @@
 }
 // ------------------------------------------------------------------------------------
 // Resolution: Code should be read "as book".
+// Refactor the code so the comments may be removed
 // If your code has comments - maybe it's better to refactor it and drop the comments.
 // Code should be written with KISS (Keep it simple stupid).
 {
